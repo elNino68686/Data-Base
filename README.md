@@ -1,5 +1,3 @@
-# Base-Dados
+# Data-base
 
-
-Trabalho universitário
-Criação de uma base de dados para um stand de automóveis em MySQL
+MySql database, Car stand
